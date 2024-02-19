@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on **anything**
 
 - Certifications
+
    Comptia Sec +
 
 <h3 align="left">Connect with me:</h3>
