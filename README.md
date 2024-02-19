@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cody! <br/><a href="https://github.com/chayes6">Programmer</a>, <a ">Cybersecurity Professional</a> 
+<h1>Hi, I'm Cody! <a >Programmer</a>, <a ">Cybersecurity Professional</a> 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
