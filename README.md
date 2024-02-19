@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayes6&label=Profile%20views&color=0e75b6&style=flat" alt="chayes6" /> </p>
 
-- 🔭 I’m currently working on **Home Lab**
+- 🔭 I’m currently working on a **Home Lab**
 
 - 🌱 I’m currently learning **Everything I can**
 
 - 👯 I’m looking to collaborate on **anything**
+
+- Certifications ** Sec + **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
